@@ -1,4 +1,4 @@
-YouTube: 21.04.223  
+YouTube: 21.05.264  
 
 Install [MicroG-RE](https://github.com/WSTxda/MicroG-RE/releases) for non-root YouTube/YouTube Music Morphe APK  
 
